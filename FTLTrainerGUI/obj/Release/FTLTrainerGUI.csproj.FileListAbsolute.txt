@@ -9,3 +9,4 @@ C:\Users\0v3r cl0ck3d\Documents\Visual Studio 2015\Projects\FTLTrainerGUI\FTLTra
 C:\Users\0v3r cl0ck3d\Documents\Visual Studio 2015\Projects\FTLTrainerGUI\FTLTrainerGUI\obj\Release\FTLTrainerGUI.exe
 C:\Users\0v3r cl0ck3d\Documents\Visual Studio 2015\Projects\FTLTrainerGUI\FTLTrainerGUI\obj\Release\FTLTrainerGUI.pdb
 C:\Users\0v3r cl0ck3d\Documents\Visual Studio 2015\Projects\FTLTrainerGUI\FTLTrainerGUI\obj\Release\FTLTrainerGUI.AboutForm.resources
+C:\Users\0v3r cl0ck3d\Documents\Visual Studio 2015\Projects\FTLTrainerGUI\FTLTrainerGUI\obj\Release\FTLTrainerGUI.csproj.CoreCompileInputs.cache
